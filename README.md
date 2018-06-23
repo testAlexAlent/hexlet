@@ -1,2 +1,0 @@
-# hexlet
-training repository
